@@ -14,7 +14,7 @@ env:
   #################################################
   #################################################
   ### REPLACE <username> WITH GH USERNAME         ###
-  AZURE_CONTAINER_APP_NAME: <username>-ttt-app
+  AZURE_CONTAINER_APP_NAME: suwenyu-ttt-app
   #################################################
 
 jobs:
